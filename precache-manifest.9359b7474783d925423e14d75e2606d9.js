@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "75c336eadb7545be1b11",
+    "revision": "0d765926784559554587",
     "url": "/beer-info-react/static/css/main.1f438295.chunk.css"
   },
   {
-    "revision": "75c336eadb7545be1b11",
-    "url": "/beer-info-react/static/js/main.75c336ea.chunk.js"
+    "revision": "0d765926784559554587",
+    "url": "/beer-info-react/static/js/main.0d765926.chunk.js"
   },
   {
     "revision": "0746399853b7478ac8b0",
@@ -64,16 +64,16 @@ self.__precacheManifest = [
     "url": "/beer-info-react/static/media/icons.8e3c7f55.eot"
   },
   {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/beer-info-react/static/media/brand-icons.13db00b7.eot"
+  },
+  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/beer-info-react/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
     "url": "/beer-info-react/static/media/brand-icons.c5ebe0b3.ttf"
-  },
-  {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/beer-info-react/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/beer-info-react/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "0c4e5c530e0af5377e90b58ba41f6639",
+    "revision": "626a8b5ef68227429a5813b9a0e3a5b8",
     "url": "/beer-info-react/index.html"
   }
 ];
